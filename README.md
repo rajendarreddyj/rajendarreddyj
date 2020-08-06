@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there, I'm Rajendar 👋
+- 🔭 I'm a Sr Software Engineer(Java Developer) who is passionate about Java, Android, Linux, Front End Development and other Open Source Technologies.
+- 📫 you can reach me at [Twitter](https://twitter.com/rajendarreddyj)
 <!--
 **rajendarreddyj/rajendarreddyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
