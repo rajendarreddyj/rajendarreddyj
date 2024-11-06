@@ -19,7 +19,7 @@
 
 [![X (formerly Twitter) follow @rajendarreddyj](https://img.shields.io/twitter/follow/rajendarreddyj?style=social)](https://x.com/rajendarreddyj) &nbsp;
 [![Linkedin follow @rajendarreddyjagapathi](https://img.shields.io/badge/-rajendarreddyjagapathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendarreddyjagapathi/)](https://www.linkedin.com/in/rajendarreddyjagapathi/) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-rajendareddyj.in-brightgreen)](https://rajendarreddyj.github.io/development-journal/)
+[![Blog](https://img.shields.io/badge/Blog-rajendareddyj.github.io-brightgreen)](https://rajendarreddyj.github.io/development-journal/)
 
 **Languages and Tools:**  
 
