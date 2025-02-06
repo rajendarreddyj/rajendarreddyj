@@ -1,6 +1,5 @@
 # Hi there, I'm Rajendar 👋
 - 🔭 I'm a Sr Software Engineer(Java Developer) who is passionate about Java, Android, Linux, Front End Development and Other Open Source Technologies.
-- 📫 you can reach me at [Twitter](https://twitter.com/rajendarreddyj)
   
 <a href="https://www.youtube.com/@rajendarreddyj-official">
   <img alt="Rajendarreddy's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" />
@@ -21,8 +20,33 @@
 [![Linkedin follow @rajendarreddyjagapathi](https://img.shields.io/badge/-rajendarreddyjagapathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendarreddyjagapathi/)](https://www.linkedin.com/in/rajendarreddyjagapathi/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-rajendareddyj.github.io-brightgreen)](https://rajendarreddyj.github.io/development-journal/)
 
+## 🔭 What I'm Currently Working On
+- Building secure innovative web applications using modern technologies.
+- Contributing to open-source projects.
+- Exploring the latest trends in software development.
+
+## 🌱 What I'm Learning
+- Java frameworks like Spring, Hibernate etc.
+- Advanced JavaScript frameworks like React and Vue.js.
+- Cloud computing and DevOps practices.
+- Machine learning and AI algorithms.
+
+## 💬 Ask Me About
+- Java development (Java SE, Jakarta, Spring, Hibernate..)
+- Web development (HTML, CSS, JavaScript, React, Vue.js).
+- Backend development (Node.js, Express, MongoDB).
+- Version control with Git and GitHub.
+ 
 **Languages and Tools:**  
 
+## 📫 How to Reach Me
+- Email: rajendarreddyj@gmail.com
+- [Twitter](https://twitter.com/rajendarreddyj)
+
+## ⚡ Fun Fact
+When I'm not coding, you can find me play volleball or spend time with family.
+
+## Contributions
 <a href="https://github.com/rajendarreddyj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendarreddyj&theme=light&count_private=true&layout=compact" alt="Rajendarreddy's most used languages" />
 </a>
