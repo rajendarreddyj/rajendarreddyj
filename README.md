@@ -62,11 +62,26 @@
 When I'm not coding, you can find me play volleball or spend time with family.
 
 ## Contributions
+
+<!-- GitHub Profile Summary Cards - More reliable alternative -->
 <a href="https://github.com/rajendarreddyj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajendarreddyj&theme=light&count_private=true&layout=compact" alt="Rajendarreddy's most used languages" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajendarreddyj&theme=default" alt="Rajendarreddy's GitHub Profile Summary" />
+</a>
+
+<br/>
+
+<a href="https://github.com/rajendarreddyj">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajendarreddyj&theme=default" alt="Top Languages by Repo" />
 </a>
 <a href="https://github.com/rajendarreddyj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajendarreddyj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Rajendarreddy's github stats"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajendarreddyj&theme=default" alt="Top Languages by Commit" />
+</a>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/rajendarreddyj">
+  <img align="center" src="https://streak-stats.demolab.com?user=rajendarreddyj&theme=default" alt="Rajendarreddy's GitHub Streak" />
 </a>
 
 <br/>
