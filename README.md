@@ -1,24 +1,9 @@
 # Hi there, I'm Rajendar 👋
 - 🔭 I'm a Principal Software Engineer(Java Developer) who is passionate about Java, Android, Linux, Front End Development and Other Open Source Technologies.
 
-<a href="https://www.youtube.com/@rajendarreddyj-official">
-  <img alt="Rajendarreddy's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" />
-</a> &nbsp;
-<a href="https://twitter.com/rajendarreddyj">
-  <img alt="Rajendarreddy's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/rajendarreddyjagapathi/">
-  <img alt="Rajendarreddy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
-</a> &nbsp;
-<a href="https://stackoverflow.com/users/2162534/rajendarreddy-jagapathi">
-  <img alt="Rajendarreddy's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stackoverflow.svg" />
-</a> &nbsp;
-<br/>
-<br/>
+<a href="https://www.youtube.com/@rajendarreddyj-official"><img src="https://img.shields.io/badge/-_-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a> <a href="https://twitter.com/rajendarreddyj"><img src="https://img.shields.io/badge/-_-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a> <a href="https://www.linkedin.com/in/rajendarreddyjagapathi/"><img src="https://img.shields.io/badge/-_-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn"/></a> <a href="https://stackoverflow.com/users/2162534/rajendarreddy-jagapathi"><img src="https://img.shields.io/badge/-_-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a> <a href="https://github.com/rajendarreddyj"><img src="https://img.shields.io/badge/-_-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://rajendarreddyj.github.io/development-journal/"><img src="https://img.shields.io/badge/-_-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog"/></a>
 
-[![X (formerly Twitter) follow @rajendarreddyj](https://img.shields.io/twitter/follow/rajendarreddyj?style=social)](https://x.com/rajendarreddyj) &nbsp;
-[![Linkedin follow @rajendarreddyjagapathi](https://img.shields.io/badge/-rajendarreddyjagapathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajendarreddyjagapathi/)](https://www.linkedin.com/in/rajendarreddyjagapathi/) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-rajendareddyj.github.io-brightgreen)](https://rajendarreddyj.github.io/development-journal/)
+[![GitHub stars](https://img.shields.io/github/stars/rajendarreddyj?style=social)](https://github.com/rajendarreddyj) [![GitHub followers](https://img.shields.io/github/followers/rajendarreddyj?style=social)](https://github.com/rajendarreddyj)
 
 ## 🔭 What I'm Currently Working On
 - Building secure innovative web applications using modern technologies.
